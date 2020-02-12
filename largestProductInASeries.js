@@ -43,7 +43,7 @@ function largestProductinaSeries(n) {
   console.log(max)
   return max;
 
-  return maxProduct;
+//   return maxProduct;
 }
 
 largestProductinaSeries(4);
